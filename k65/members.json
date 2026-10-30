@@ -1,1 +1,10 @@
-[]
+{
+  "name": "Họ và Tên của bạn",
+  "github": "ten-tai-khoan-github-cua-ban",
+  "role": "K65, FTDS",
+  "bio": "Sinh viên ngành Trí tuệ nhân tạo cho đổi mới sáng tạo trong kinh tế và kinh doanh tại FTU. Đam mê ứng dụng AI vào kinh tế và kinh doanh.",
+  "links": {
+    "Website": "https://example.com",
+    "LinkedIn": "https://linkedin.com/in/tai-khoan-cua-ban"
+  }
+}
